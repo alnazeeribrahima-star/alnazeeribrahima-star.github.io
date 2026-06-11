@@ -1,4 +1,4 @@
-# Welcome to My Personal Website 🎓
+t# Welcome to My Personal Website 🎓
 # مرحباً بكم في موقعي الشخصي
 
 ## 📄 Personal CV / السيرة الذاتية
@@ -50,3 +50,4 @@ Responsibility in our field means:
 
 Therefore, responsibility must begin from the university benches—in how we prepare reports, our discipline in laboratories, and our passion for genuine research.
 
+the fifa world cup 2026 is beginning today 

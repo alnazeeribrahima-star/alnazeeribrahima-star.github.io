@@ -1,4 +1,4 @@
- {console.log("تم تحميل ملف الجافا سكريبت بنجاح!");
+console.log("تم تحميل ملف الجافا سكريبت بنجاح!");
 function addTask() 
     let input = document.getElementById("taskInput");
     let taskText = input.value;

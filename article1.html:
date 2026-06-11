@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>My Medical Education Journey</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <article style="max-width: 700px; margin: auto; padding: 20px;">
+        <h1>My Medical Education Journey: Lessons Learned</h1>
+        <p><em>Published: June 2026</em></p>
+        
+        <h3>Introduction</h3>
+        <p>Medicine is not just a career; it is a lifelong commitment to learning and serving humanity. My journey has been driven by a passion for understanding the human body and applying scientific research to clinical practice.</p>
+
+        <h3>Key Resources</h3>
+        <p>Throughout my studies, I have utilized various platforms to enhance my clinical decision-making skills, including:</p>
+        <ul>
+            <li><strong>Lecturio:</strong> For mastering foundational medical concepts.</li>
+            <li><strong>Medscape & Epocrates:</strong> Essential tools for clinical updates and decision support.</li>
+            <li><strong>eLibraryUSA:</strong> A primary source for my academic and research development.</li>
+        </ul>
+
+        <h3>Conclusion</h3>
+        <p>This path is challenging, but every step forward brings me closer to my goal of becoming a competent physician and researcher. Stay tuned for more updates on my academic progress.</p>
+        
+        <hr>
+        <a href="index.html">← Back to Home</a>
+    </article>
+</body>
+</html>
